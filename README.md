@@ -8,4 +8,8 @@ PVP Resource Pack for Minecraft 1.8.9
 - Fix any other issues/bugs
 
 ## Overlay Announcements:
-### lorem ipsum
+### I am planning to release a series of overlays so you can customize this pack modularly
+-  Sandstone overlay
+-  Black and White Bridge overlay
+-  Many different kinds of wool
+-  White overlay
